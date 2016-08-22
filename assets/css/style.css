@@ -1,0 +1,25 @@
+		<style>
+ 			.blank {
+ 				width: 20 px;
+ 				margin: 0 10px 0 10px;
+ 				border: medium solid black;
+ 			}
+
+ 			.blank-space {
+ 				width: 20px;
+ 				margin: 0 10px 0 10px;
+ 			}
+
+ 		</style>
+
+
+		<style type="text/css">
+    	#box{
+        	width: 140px;
+        	height: 24px;
+        	padding: 25px;
+        	text-align: center;
+        	background: #f0e68c;
+        	margin: 15px;
+    }        
+	</style>
